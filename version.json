@@ -1,0 +1,7 @@
+{
+  "versionCode": 12,
+  "versionName": "1.2.0",
+  "forceUpdate": false,
+  "url": "https://example.com/download/app_v1.2.0.apk",
+  "releaseNotes": "修复Bug，优化性能。"
+}
