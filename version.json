@@ -2,6 +2,6 @@
   "versionCode": 12,
   "versionName": "1.2.0",
   "forceUpdate": false,
-  "url": "https://example.com/download/app_v1.2.0.apk",
+  "url": "https://github.com/ming22949-ai/app-update/releases/download/v1.2.0/MyApp_v1.2.0.apk,
   "releaseNotes": "修复Bug，优化性能。"
 }
